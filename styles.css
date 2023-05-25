@@ -1,6 +1,10 @@
 /*  your css code here. If applicable */
 table{
 	background: yellow;
-	border-color:black;
+	border: 1px solid black;
+}
+th, td {
+  border: 1px solid black;
+  /*border-radius: 1px;*/
 }
 
